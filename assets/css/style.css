@@ -3,13 +3,13 @@ body {
   font-family: Ariel, Helvetica, sans-serif;
 }
 .backgroundImage {
-  background-image: url(../img/Uber-Eats-Logo-2015.png);
+  background-image: url(../img/Uber-Eats-Logo.png);
     width: 400px;
   height: 400px;
   margin: 64px auto;
 } 
 .backgroundImage:hover {
-  background-image: url(../img/Uber-Eats-Bag.jpg);
+  background-image: url(../img/Uber Eats bag.jpg);
   cursor: crosshair;
 }
 h1 {
