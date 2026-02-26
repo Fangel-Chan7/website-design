@@ -38,3 +38,12 @@ h3 {
   text-align: right;
   color: white;
 }
+3 a:link,
+h3 a:visited {
+  color: darkgreen;
+  text-decoration: none;
+}
+
+h3 a:hover {
+  color: white;
+}
